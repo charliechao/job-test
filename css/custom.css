@@ -1,0 +1,28 @@
+/* line 1, custom.scss */
+.leftImg {
+  position: absolute;
+}
+
+/* line 5, custom.scss */
+#newsOne {
+  margin-left: -100px;
+  margin-top: 20px;
+}
+
+/* line 10, custom.scss */
+#newsTwo {
+  margin-left: 300px;
+  margin-top: -123px;
+  z-index: -10;
+}
+
+/* line 16, custom.scss */
+#newsThree {
+  margin-top: 222px;
+}
+
+/* line 20, custom.scss */
+#newsFour {
+  margin-top: 233px;
+  margin-left: 331px;
+}

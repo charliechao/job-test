@@ -1,5 +1,6 @@
 $(document).ready(function(){
-$(".leftImg").colorbox({rel:'gal', slideshow:true});
+$.colorbox({href:"pic/news.jpg"});
+$(".leftImg").colorbox({rel:'leftImg', slideshow:true, slideshowSpeed:2000});
 
 
 });

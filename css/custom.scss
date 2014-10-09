@@ -1,5 +1,6 @@
 .leftImge{
-position:absolute;	
+position:absolute;
+overflow:hidden;	
 }
 
 #newsOne{
@@ -9,12 +10,13 @@ margin-top: 20px;
 
 #newsTwo{
 margin-left: 300px;
-margin-top: -123px;
+margin-top: -126px;
 z-index: -10;	
 }
 
 #newsThree{
-margin-top: 222px;	
+margin-top: 224px;	
+margin-left: 22px;
 }
 
 #newsFour{

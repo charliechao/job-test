@@ -1,27 +1,29 @@
 /* line 1, custom.scss */
 .leftImge {
   position: absolute;
+  overflow: hidden;
 }
 
-/* line 5, custom.scss */
+/* line 6, custom.scss */
 #newsOne {
   margin-left: -100px;
   margin-top: 20px;
 }
 
-/* line 10, custom.scss */
+/* line 11, custom.scss */
 #newsTwo {
   margin-left: 300px;
-  margin-top: -123px;
+  margin-top: -126px;
   z-index: -10;
 }
 
-/* line 16, custom.scss */
+/* line 17, custom.scss */
 #newsThree {
-  margin-top: 222px;
+  margin-top: 224px;
+  margin-left: 22px;
 }
 
-/* line 20, custom.scss */
+/* line 22, custom.scss */
 #newsFour {
   margin-top: 233px;
   margin-left: 331px;
